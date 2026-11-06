@@ -1,0 +1,23 @@
+{
+  "ky_hieu": "C26TKD",
+  "so_hoa_don": "6022",
+  "ngay_lap": "2026-05-21",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT",
+  "mst_nguoi_ban": "0864390618",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0847918895",
+  "tong_tien_chua_thue": 6108000,
+  "tien_thue": 610800,
+  "tong_thanh_toan": 6718800,
+  "dong_hang": [
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 12.0,
+      "don_gia": 509000,
+      "thanh_tien": 6108000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

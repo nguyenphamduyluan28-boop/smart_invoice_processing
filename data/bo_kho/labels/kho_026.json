@@ -1,0 +1,64 @@
+{
+  "loai_hoa_don": "BAN_HANG",
+  "ky_hieu": "2C26TED",
+  "so_hoa_don": "38165",
+  "ngay_lap": "2026-10-06",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 97617625,
+  "tien_thue": 0,
+  "tong_thanh_toan": 97617625,
+  "dong_hang": [
+    {
+      "ten_hang": "Phần mềm diệt virus bản quyền 1 năm",
+      "don_vi_tinh": "license",
+      "so_luong": 1.0,
+      "don_gia": 428500,
+      "thanh_tien": 428500,
+      "thue_suat": null
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 3.0,
+      "don_gia": 107000,
+      "thanh_tien": 321000,
+      "thue_suat": null
+    },
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 10.0,
+      "don_gia": 1831000,
+      "thanh_tien": 18310000,
+      "thue_suat": null
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 60.25,
+      "don_gia": 18500,
+      "thanh_tien": 1114625,
+      "thue_suat": null
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 7.0,
+      "don_gia": 238500,
+      "thanh_tien": 1669500,
+      "thue_suat": null
+    },
+    {
+      "ten_hang": "Màn hình máy tính 27 inch độ phân giải 2K tấm nền IPS",
+      "don_vi_tinh": "chiếc",
+      "so_luong": 12.0,
+      "don_gia": 6314500,
+      "thanh_tien": 75774000,
+      "thue_suat": null
+    }
+  ],
+  "do_tin_cay_thap": []
+}

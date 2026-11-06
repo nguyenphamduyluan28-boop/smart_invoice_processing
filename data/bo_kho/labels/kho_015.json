@@ -1,0 +1,64 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TAD",
+  "so_hoa_don": "89270",
+  "ngay_lap": "2026-02-26",
+  "ten_nguoi_ban": "CÔNG TY TNHH NHÀ HÀNG PHỐ CỔ ĐÔNG KINH",
+  "mst_nguoi_ban": "0061594994",
+  "ten_nguoi_mua": "Nguyễn Thị Thu Hương",
+  "mst_nguoi_mua": null,
+  "tong_tien_chua_thue": 7241000,
+  "tien_thue": 611740,
+  "tong_thanh_toan": 7852740,
+  "dong_hang": [
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 60.25,
+      "don_gia": 22000,
+      "thanh_tien": 1325500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 7.0,
+      "don_gia": 493000,
+      "thanh_tien": 3451000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 11.0,
+      "don_gia": 84000,
+      "thanh_tien": 924000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 1.0,
+      "don_gia": 277000,
+      "thanh_tien": 277000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 11.0,
+      "don_gia": 113000,
+      "thanh_tien": 1243000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 1.0,
+      "don_gia": 20500,
+      "thanh_tien": 20500,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

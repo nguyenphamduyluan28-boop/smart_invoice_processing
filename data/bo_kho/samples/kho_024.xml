@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.1.0</PBan><THDon>Hóa đơn bán hàng</THDon>
+<KHHDon>2C26TCH</KHHDon><SHDon>35584</SHDon><NLap>2026-06-20</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH</Ten><MST>0595384749</MST><DChi>Quốc lộ 1A, Phường Linh Xuân, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0503258854</MST></NMua><DSHHDVu><HHDVu><STT>1</STT><THHDVu>Cước dịch vụ internet cáp quang tháng 10/2026</THHDVu><DVTinh>tháng</DVTinh><SLuong>11</SLuong><DGia>241000</DGia><ThTien>2651000</ThTien></HHDVu><HHDVu><STT>2</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>7</SLuong><DGia>571000</DGia><ThTien>3997000</ThTien></HHDVu></DSHHDVu>
+<TToan><TgTCThue>6648000</TgTCThue><TgTThue>0</TgTThue><TgTTTBSo>6648000</TgTTTBSo></TToan>
+</NDHDon></DLHDon></HDon>

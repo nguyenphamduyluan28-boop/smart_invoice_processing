@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TEG",
+  "so_hoa_don": "2272",
+  "ngay_lap": "2026-02-15",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG",
+  "mst_nguoi_ban": "0992393726",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 39983000,
+  "tien_thue": 3198640,
+  "tong_thanh_toan": 43181640,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ tư vấn thuế tháng 10",
+      "don_vi_tinh": "gói",
+      "so_luong": 1.0,
+      "don_gia": 2067000,
+      "thanh_tien": 2067000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 9.0,
+      "don_gia": 1004000,
+      "thanh_tien": 9036000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 16.0,
+      "don_gia": 1805000,
+      "thanh_tien": 28880000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

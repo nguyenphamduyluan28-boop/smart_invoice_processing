@@ -1,0 +1,56 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MCB",
+  "so_hoa_don": "42514",
+  "ngay_lap": "2026-08-10",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "Lê Hoàng Phúc",
+  "mst_nguoi_mua": null,
+  "tong_tien_chua_thue": 30014500,
+  "tien_thue": 2951315,
+  "tong_thanh_toan": 32965815,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì hệ thống điều hoà định kỳ quý IV",
+      "don_vi_tinh": "gói",
+      "so_luong": 6.0,
+      "don_gia": 3919000,
+      "thanh_tien": 23514000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 2.0,
+      "don_gia": 21000,
+      "thanh_tien": 42000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Suất ăn trưa văn phòng",
+      "don_vi_tinh": "suất",
+      "so_luong": 6.0,
+      "don_gia": 60500,
+      "thanh_tien": 363000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 7.0,
+      "don_gia": 122500,
+      "thanh_tien": 857500,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 6.0,
+      "don_gia": 873000,
+      "thanh_tien": 5238000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

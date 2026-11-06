@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TCE",
+  "so_hoa_don": "406",
+  "ngay_lap": "2026-07-08",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0724870366",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 30951000,
+  "tien_thue": 2476080,
+  "tong_thanh_toan": 33427080,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 3.0,
+      "don_gia": 648000,
+      "thanh_tien": 1944000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 3.0,
+      "don_gia": 549000,
+      "thanh_tien": 1647000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 10.0,
+      "don_gia": 2736000,
+      "thanh_tien": 27360000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

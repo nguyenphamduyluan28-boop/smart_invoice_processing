@@ -1,0 +1,47 @@
+{
+  "ky_hieu": "C26TCB",
+  "so_hoa_don": "464",
+  "ngay_lap": "2026-05-19",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0602883755",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0597475407",
+  "tong_tien_chua_thue": 146672000,
+  "tien_thue": 14667200,
+  "tong_thanh_toan": 161339200,
+  "dong_hang": [
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 3.0,
+      "don_gia": 1031000,
+      "thanh_tien": 3093000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 14.0,
+      "don_gia": 3257000,
+      "thanh_tien": 45598000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dịch vụ tư vấn thuế tháng 10",
+      "don_vi_tinh": "gói",
+      "so_luong": 17.0,
+      "don_gia": 4789000,
+      "thanh_tien": 81413000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 19.0,
+      "don_gia": 872000,
+      "thanh_tien": 16568000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,56 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TGH",
+  "so_hoa_don": "12130",
+  "ngay_lap": "2026-04-14",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 17189500,
+  "tien_thue": 1629955,
+  "tong_thanh_toan": 18819455,
+  "dong_hang": [
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 9.0,
+      "don_gia": 303500,
+      "thanh_tien": 2731500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 11.0,
+      "don_gia": 1133000,
+      "thanh_tien": 12463000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 9.0,
+      "don_gia": 186500,
+      "thanh_tien": 1678500,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 3.0,
+      "don_gia": 21000,
+      "thanh_tien": 63000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 3.0,
+      "don_gia": 84500,
+      "thanh_tien": 253500,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

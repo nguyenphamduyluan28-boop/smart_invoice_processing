@@ -1,0 +1,23 @@
+{
+  "ky_hieu": "C26TBK",
+  "so_hoa_don": "2925",
+  "ngay_lap": "2026-03-29",
+  "ten_nguoi_ban": "CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG",
+  "mst_nguoi_ban": "0328385642",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0105129837",
+  "tong_tien_chua_thue": 1288000,
+  "tien_thue": 128800,
+  "tong_thanh_toan": 1416800,
+  "dong_hang": [
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 14.0,
+      "don_gia": 92000,
+      "thanh_tien": 1288000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

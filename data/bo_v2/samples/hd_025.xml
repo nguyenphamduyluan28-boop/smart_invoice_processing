@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TEG</KHHDon><SHDon>2272</SHDon><NLap>2026-02-15</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG</Ten><MST>0992393726</MST><DChi>Số 45 phố Trần Duy Hưng, Phường Trung Hòa, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0115421612</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ tư vấn thuế tháng 10</THHDVu><DVTinh>gói</DVTinh><SLuong>1</SLuong><DGia>2067000</DGia><ThTien>2067000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>9</SLuong><DGia>1004000</DGia><ThTien>9036000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Ghế xoay văn phòng</THHDVu><DVTinh>cái</DVTinh><SLuong>16</SLuong><DGia>1805000</DGia><ThTien>28880000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>39983000</TgTCThue><TgTThue>3198640</TgTThue><TgTTTBSo>43181640</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00002272MAU</MCCQT></HDon>

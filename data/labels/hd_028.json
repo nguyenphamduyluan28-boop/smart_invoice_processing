@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TBB",
+  "so_hoa_don": "6815",
+  "ngay_lap": "2026-07-25",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT",
+  "mst_nguoi_ban": "0033042845",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0420381780",
+  "tong_tien_chua_thue": 63223000,
+  "tien_thue": 6322300,
+  "tong_thanh_toan": 69545300,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ tư vấn thuế tháng 10",
+      "don_vi_tinh": "gói",
+      "so_luong": 3.0,
+      "don_gia": 4271000,
+      "thanh_tien": 12813000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 6.0,
+      "don_gia": 918000,
+      "thanh_tien": 5508000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 13.0,
+      "don_gia": 3454000,
+      "thanh_tien": 44902000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

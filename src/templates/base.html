@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Hoá Đơn AI{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <header class="top">
+    <a href="/" class="logo">Hoá Đơn AI</a>
+    <span class="sub">Đọc – kiểm tra – duyệt – xuất chứng từ</span>
+  </header>
+  <main>{% block body %}{% endblock %}</main>
+</body>
+</html>

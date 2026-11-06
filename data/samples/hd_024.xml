@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TCB</KHHDon><SHDon>2821</SHDon><NLap>2026-04-15</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT</Ten><MST>0636082445</MST><DChi>Số 12 đường Lê Lợi, Phường Bến Thành, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0078745721</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>15</SLuong><DGia>743000</DGia><ThTien>11145000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>3</SLuong><DGia>516000</DGia><ThTien>1548000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>7</SLuong><DGia>568000</DGia><ThTien>3976000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>4</STT><THHDVu>Ghế xoay văn phòng</THHDVu><DVTinh>cái</DVTinh><SLuong>3</SLuong><DGia>1674000</DGia><ThTien>5022000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>21691000</TgTCThue><TgTThue>1735280</TgTThue><TgTTTBSo>23426280</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00002821MAU</MCCQT></HDon>

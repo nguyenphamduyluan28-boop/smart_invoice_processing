@@ -1,0 +1,40 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26THG",
+  "so_hoa_don": "90902",
+  "ngay_lap": "2026-04-06",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN VIỄN THÔNG SÔNG HỒNG",
+  "mst_nguoi_ban": "0611355198",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 5211500,
+  "tien_thue": 456280,
+  "tong_thanh_toan": 5667780,
+  "dong_hang": [
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 5.0,
+      "don_gia": 253000,
+      "thanh_tien": 1265000,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 3.0,
+      "don_gia": 1288500,
+      "thanh_tien": 3865500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 1.0,
+      "don_gia": 81000,
+      "thanh_tien": 81000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

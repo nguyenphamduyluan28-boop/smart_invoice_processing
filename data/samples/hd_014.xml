@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TEE</KHHDon><SHDon>682</SHDon><NLap>2026-04-08</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG</Ten><MST>0244845263</MST><DChi>Lô B3 KCN Tân Tạo, Phường Tân Tạo, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC</Ten><MST>0097658280</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>13</SLuong><DGia>791000</DGia><ThTien>10283000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>10283000</TgTCThue><TgTThue>1028300</TgTThue><TgTTTBSo>11311300</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00000682MAU</MCCQT></HDon>

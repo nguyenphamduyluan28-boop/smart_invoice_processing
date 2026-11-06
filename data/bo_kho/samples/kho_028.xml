@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.1.0</PBan><THDon>Hóa đơn bán hàng</THDon>
+<KHHDon>2C26THB</KHHDon><SHDon>36096</SHDon><NLap>2026-07-20</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CỬA HÀNG ĐIỆN MÁY QUANG MINH</Ten><MST>0963585092</MST><DChi>Số 241 Hùng Vương, Phường Hải Châu, Đà Nẵng</DChi></NBan>
+<NMua><Ten>Lê Hoàng Phúc</Ten></NMua><DSHHDVu><HHDVu><STT>1</STT><THHDVu>Giấy in A4 định lượng 70gsm (500 tờ/ram)</THHDVu><DVTinh>ram</DVTinh><SLuong>9</SLuong><DGia>92000</DGia><ThTien>828000</ThTien></HHDVu><HHDVu><STT>2</STT><THHDVu>Xăng RON 95-V</THHDVu><DVTinh>lít</DVTinh><SLuong>60.25</SLuong><DGia>24000</DGia><ThTien>1446000</ThTien></HHDVu></DSHHDVu>
+<TToan><TgTCThue>2274000</TgTCThue><TgTThue>0</TgTThue><TgTTTBSo>2274000</TgTTTBSo></TToan>
+</NDHDon></DLHDon></HDon>

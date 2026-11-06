@@ -1,0 +1,40 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TKD",
+  "so_hoa_don": "20870",
+  "ngay_lap": "2026-07-08",
+  "ten_nguoi_ban": "CÔNG TY TNHH NHÀ HÀNG PHỐ CỔ ĐÔNG KINH",
+  "mst_nguoi_ban": "0061594994",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0724458279",
+  "tong_tien_chua_thue": 53501500,
+  "tien_thue": 5337550,
+  "tong_thanh_toan": 58839050,
+  "dong_hang": [
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 4.0,
+      "don_gia": 358000,
+      "thanh_tien": 1432000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 9.0,
+      "don_gia": 70000,
+      "thanh_tien": 630000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Màn hình máy tính 27 inch độ phân giải 2K tấm nền IPS",
+      "don_vi_tinh": "chiếc",
+      "so_luong": 9.0,
+      "don_gia": 5715500,
+      "thanh_tien": 51439500,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

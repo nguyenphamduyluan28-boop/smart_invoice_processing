@@ -1,0 +1,31 @@
+{
+  "ky_hieu": "C26TEH",
+  "so_hoa_don": "4783",
+  "ngay_lap": "2026-07-02",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG",
+  "mst_nguoi_ban": "0992393726",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 47108000,
+  "tien_thue": 3768640,
+  "tong_thanh_toan": 50876640,
+  "dong_hang": [
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 14.0,
+      "don_gia": 3184000,
+      "thanh_tien": 44576000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 4.0,
+      "don_gia": 633000,
+      "thanh_tien": 2532000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

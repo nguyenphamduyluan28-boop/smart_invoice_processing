@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TDC</KHHDon><SHDon>3006</SHDon><NLap>2026-10-05</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT</Ten><MST>0640376201</MST><DChi>Số 12 đường Lê Lợi, Phường Bến Thành, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0115421612</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>13</SLuong><DGia>686000</DGia><ThTien>8918000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>8</SLuong><DGia>681000</DGia><ThTien>5448000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>14366000</TgTCThue><TgTThue>1149280</TgTThue><TgTTTBSo>15515280</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00003006MAU</MCCQT></HDon>

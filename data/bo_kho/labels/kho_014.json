@@ -1,0 +1,48 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TBD",
+  "so_hoa_don": "37824",
+  "ngay_lap": "2026-03-06",
+  "ten_nguoi_ban": "CỬA HÀNG ĐIỆN MÁY QUANG MINH",
+  "mst_nguoi_ban": "0963585092",
+  "ten_nguoi_mua": "Trần Quốc Bảo",
+  "mst_nguoi_mua": null,
+  "tong_tien_chua_thue": 38083500,
+  "tien_thue": 3711510,
+  "tong_thanh_toan": 41795010,
+  "dong_hang": [
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 9.0,
+      "don_gia": 405000,
+      "thanh_tien": 3645000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 9.0,
+      "don_gia": 538000,
+      "thanh_tien": 4842000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Màn hình máy tính 27 inch độ phân giải 2K tấm nền IPS",
+      "don_vi_tinh": "chiếc",
+      "so_luong": 5.0,
+      "don_gia": 4689500,
+      "thanh_tien": 23447500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dịch vụ bảo trì hệ thống điều hoà định kỳ quý IV",
+      "don_vi_tinh": "gói",
+      "so_luong": 2.0,
+      "don_gia": 3074500,
+      "thanh_tien": 6149000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

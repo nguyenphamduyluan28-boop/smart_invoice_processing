@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MEK",
+  "so_hoa_don": "14810",
+  "ngay_lap": "2026-03-24",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ ÁNH DƯƠNG XANH",
+  "mst_nguoi_ban": "0415180218",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 5291000,
+  "tien_thue": 529100,
+  "tong_thanh_toan": 5820100,
+  "dong_hang": [
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 5.0,
+      "don_gia": 1053500,
+      "thanh_tien": 5267500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 1.0,
+      "don_gia": 23500,
+      "thanh_tien": 23500,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

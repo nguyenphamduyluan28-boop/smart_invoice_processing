@@ -1,0 +1,48 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MGH",
+  "so_hoa_don": "82180",
+  "ngay_lap": "2026-06-22",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN THIẾT BỊ VĂN PHÒNG HƯNG THỊNH",
+  "mst_nguoi_ban": "0386430545",
+  "ten_nguoi_mua": "Nguyễn Thị Thu Hương",
+  "mst_nguoi_mua": null,
+  "tong_tien_chua_thue": 6215750,
+  "tien_thue": 579575,
+  "tong_thanh_toan": 6795325,
+  "dong_hang": [
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 1.0,
+      "don_gia": 342000,
+      "thanh_tien": 342000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 6.0,
+      "don_gia": 140000,
+      "thanh_tien": 840000,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 60.25,
+      "don_gia": 19000,
+      "thanh_tien": 1144750,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dịch vụ bảo trì hệ thống điều hoà định kỳ quý IV",
+      "don_vi_tinh": "gói",
+      "so_luong": 2.0,
+      "don_gia": 1944500,
+      "thanh_tien": 3889000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

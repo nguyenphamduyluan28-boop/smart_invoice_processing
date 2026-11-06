@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MAB",
+  "so_hoa_don": "56839",
+  "ngay_lap": "2026-08-03",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN THIẾT BỊ VĂN PHÒNG HƯNG THỊNH",
+  "mst_nguoi_ban": "0386430545",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 43818000,
+  "tien_thue": 4341450,
+  "tong_thanh_toan": 48159450,
+  "dong_hang": [
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 6.0,
+      "don_gia": 134500,
+      "thanh_tien": 807000,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Màn hình máy tính 27 inch độ phân giải 2K tấm nền IPS",
+      "don_vi_tinh": "chiếc",
+      "so_luong": 9.0,
+      "don_gia": 4779000,
+      "thanh_tien": 43011000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

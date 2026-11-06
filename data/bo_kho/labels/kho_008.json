@@ -1,0 +1,56 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MEE",
+  "so_hoa_don": "98925",
+  "ngay_lap": "2026-03-21",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN VIỄN THÔNG SÔNG HỒNG",
+  "mst_nguoi_ban": "0611355198",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 6533000,
+  "tien_thue": 496570,
+  "tong_thanh_toan": 7029570,
+  "dong_hang": [
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 8.0,
+      "don_gia": 502500,
+      "thanh_tien": 4020000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 5.0,
+      "don_gia": 179000,
+      "thanh_tien": 895000,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 2.0,
+      "don_gia": 19500,
+      "thanh_tien": 39000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 8.0,
+      "don_gia": 77000,
+      "thanh_tien": 616000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 9.0,
+      "don_gia": 107000,
+      "thanh_tien": 963000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

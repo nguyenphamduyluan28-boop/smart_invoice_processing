@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MBD",
+  "so_hoa_don": "73979",
+  "ngay_lap": "2026-08-21",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 14145000,
+  "tien_thue": 1414500,
+  "tong_thanh_toan": 15559500,
+  "dong_hang": [
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 10.0,
+      "don_gia": 227500,
+      "thanh_tien": 2275000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Màn hình máy tính 27 inch độ phân giải 2K tấm nền IPS",
+      "don_vi_tinh": "chiếc",
+      "so_luong": 2.0,
+      "don_gia": 5935000,
+      "thanh_tien": 11870000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TBE</KHHDon><SHDon>6827</SHDon><NLap>2026-06-13</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG</Ten><MST>0234671849</MST><DChi>Lô B3 KCN Tân Tạo, Phường Tân Tạo, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC</Ten><MST>0724458279</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>11</SLuong><DGia>596000</DGia><ThTien>6556000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>6556000</TgTCThue><TgTThue>524480</TgTThue><TgTTTBSo>7080480</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00006827MAU</MCCQT></HDon>

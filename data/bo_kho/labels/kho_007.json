@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MKC",
+  "so_hoa_don": "62026",
+  "ngay_lap": "2026-07-24",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 27340000,
+  "tien_thue": 2734000,
+  "tong_thanh_toan": 30074000,
+  "dong_hang": [
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 8.0,
+      "don_gia": 1602500,
+      "thanh_tien": 12820000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dịch vụ bảo trì hệ thống điều hoà định kỳ quý IV",
+      "don_vi_tinh": "gói",
+      "so_luong": 4.0,
+      "don_gia": 3630000,
+      "thanh_tien": 14520000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

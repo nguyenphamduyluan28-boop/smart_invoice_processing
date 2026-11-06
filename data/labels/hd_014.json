@@ -1,0 +1,23 @@
+{
+  "ky_hieu": "C26TEE",
+  "so_hoa_don": "682",
+  "ngay_lap": "2026-04-08",
+  "ten_nguoi_ban": "CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG",
+  "mst_nguoi_ban": "0244845263",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0097658280",
+  "tong_tien_chua_thue": 10283000,
+  "tien_thue": 1028300,
+  "tong_thanh_toan": 11311300,
+  "dong_hang": [
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 13.0,
+      "don_gia": 791000,
+      "thanh_tien": 10283000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

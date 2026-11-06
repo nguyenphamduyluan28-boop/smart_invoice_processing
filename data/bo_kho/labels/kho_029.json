@@ -1,0 +1,64 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MCC",
+  "so_hoa_don": "69704",
+  "ngay_lap": "2026-09-24",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN THIẾT BỊ VĂN PHÒNG HƯNG THỊNH",
+  "mst_nguoi_ban": "0386430545",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 42248000,
+  "tien_thue": 4160410,
+  "tong_thanh_toan": 46408410,
+  "dong_hang": [
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 3.0,
+      "don_gia": 645000,
+      "thanh_tien": 1935000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Suất ăn trưa văn phòng",
+      "don_vi_tinh": "suất",
+      "so_luong": 12.0,
+      "don_gia": 52500,
+      "thanh_tien": 630000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Màn hình máy tính 27 inch độ phân giải 2K tấm nền IPS",
+      "don_vi_tinh": "chiếc",
+      "so_luong": 7.0,
+      "don_gia": 5515500,
+      "thanh_tien": 38608500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 10.0,
+      "don_gia": 22500,
+      "thanh_tien": 225000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 7.0,
+      "don_gia": 93500,
+      "thanh_tien": 654500,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 10.0,
+      "don_gia": 19500,
+      "thanh_tien": 195000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

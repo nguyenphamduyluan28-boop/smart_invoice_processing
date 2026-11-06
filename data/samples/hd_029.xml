@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TDA</KHHDon><SHDon>4701</SHDon><NLap>2026-01-23</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG</Ten><MST>0741828898</MST><DChi>Số 45 phố Trần Duy Hưng, Phường Trung Hòa, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0708538671</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ tư vấn thuế tháng 10</THHDVu><DVTinh>gói</DVTinh><SLuong>16</SLuong><DGia>2192000</DGia><ThTien>35072000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Bàn làm việc gỗ 1m2</THHDVu><DVTinh>cái</DVTinh><SLuong>10</SLuong><DGia>1986000</DGia><ThTien>19860000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>6</SLuong><DGia>109000</DGia><ThTien>654000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>4</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>3</SLuong><DGia>735000</DGia><ThTien>2205000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>57791000</TgTCThue><TgTThue>4623280</TgTThue><TgTTTBSo>62414280</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00004701MAU</MCCQT></HDon>

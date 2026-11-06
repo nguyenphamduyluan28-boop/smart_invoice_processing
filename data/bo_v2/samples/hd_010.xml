@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TEB</KHHDon><SHDon>6845</SHDon><NLap>2026-03-23</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG</Ten><MST>0234671849</MST><DChi>Lô B3 KCN Tân Tạo, Phường Tân Tạo, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0115421612</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Bàn làm việc gỗ 1m2</THHDVu><DVTinh>cái</DVTinh><SLuong>16</SLuong><DGia>3004000</DGia><ThTien>48064000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>5</SLuong><DGia>1062000</DGia><ThTien>5310000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>53374000</TgTCThue><TgTThue>4269920</TgTThue><TgTTTBSo>57643920</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00006845MAU</MCCQT></HDon>

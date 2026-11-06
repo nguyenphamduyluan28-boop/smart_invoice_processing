@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TKB</KHHDon><SHDon>4366</SHDon><NLap>2026-09-13</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT</Ten><MST>0513627010</MST><DChi>Số 12 đường Lê Lợi, Phường Bến Thành, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0981933190</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>15</SLuong><DGia>827000</DGia><ThTien>12405000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>9</SLuong><DGia>713000</DGia><ThTien>6417000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>6</SLuong><DGia>95000</DGia><ThTien>570000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>19392000</TgTCThue><TgTThue>1939200</TgTThue><TgTTTBSo>21331200</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00004366MAU</MCCQT></HDon>

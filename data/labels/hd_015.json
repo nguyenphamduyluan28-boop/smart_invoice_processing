@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TBG",
+  "so_hoa_don": "4959",
+  "ngay_lap": "2026-04-21",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0829932157",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0164941577",
+  "tong_tien_chua_thue": 23016000,
+  "tien_thue": 2301600,
+  "tong_thanh_toan": 25317600,
+  "dong_hang": [
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 1.0,
+      "don_gia": 2038000,
+      "thanh_tien": 2038000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 17.0,
+      "don_gia": 1133000,
+      "thanh_tien": 19261000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 1.0,
+      "don_gia": 1717000,
+      "thanh_tien": 1717000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

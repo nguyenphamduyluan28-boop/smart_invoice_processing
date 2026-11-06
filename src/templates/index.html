@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block head %}{% if thong_ke.get('DANG_XU_LY') %}<meta http-equiv="refresh" content="3">{% endif %}{% endblock %}
+{% block body %}
+{% if thong_bao %}<div class="thong-bao">{{ thong_bao }}</div>{% endif %}
+
+<section class="hang">
+  <div class="the">
+    <h2>Khách hàng</h2>
+    {% if ds_kh %}
+    <nav class="ds-kh">
+      {% for k in ds_kh %}
+      <a href="/?kh={{ k.id }}" class="{{ 'chon' if kh and k.id == kh.id }}">{{ k.ten }}</a>
+      {% endfor %}
+    </nav>
+    {% else %}<p class="mo">Chưa có khách hàng. Thêm khách hàng đầu tiên để bắt đầu.</p>{% endif %}
+    <form method="post" action="/khach-hang" class="dong-form">
+      <input name="ten" placeholder="Tên khách hàng" required>
+      <input name="mst" placeholder="MST (để kiểm tra hoá đơn)">
+      <button>Thêm</button>
+    </form>
+  </div>
+
+  {% if kh %}
+  <div class="the">
+    <h2>Tải chứng từ cho {{ kh.ten }}</h2>
+    <form method="post" action="/tai-len" enctype="multipart/form-data" class="dong-form">
+      <input type="hidden" name="kh" value="{{ kh.id }}">
+      <input type="file" name="tep" multiple accept=".xml,.pdf,.png,.jpg,.jpeg,.webp" required>
+      <button>Tải lên &amp; xử lý</button>
+    </form>
+    <p class="mo">XML đọc miễn phí bằng code. PDF và ảnh dùng AI: <b>{{ ai }}</b> (đổi trong file .env).</p>
+  </div>
+  {% endif %}
+</section>
+
+{% if kh %}
+<section class="the">
+  <div class="tieu-de-bang">
+    <div class="loc">
+      <a href="/?kh={{ kh.id }}" class="{{ 'chon' if not loc }}">Tất cả</a>
+      {% for tt in ['CAN_DUYET', 'OK', 'DA_DUYET', 'DANG_XU_LY', 'LOI'] %}
+      <a href="/?kh={{ kh.id }}&loc={{ tt }}" class="{{ 'chon' if loc == tt }}"><span class="nhan nhan-{{ tt }}">{{ NHAN[tt] }}</span> {{ thong_ke.get(tt, 0) }}</a>
+      {% endfor %}
+    </div>
+    <div>
+      <span class="mo">Token đã dùng: {{ tong_token | tien }}</span>
+      <a class="nut" href="/xuat-excel?kh={{ kh.id }}">Xuất Excel ({{ thong_ke.get('DA_DUYET', 0) }} đã duyệt)</a>
+    </div>
+  </div>
+
+  {% if chung_tu %}
+  <table class="bang">
+    <thead><tr><th>#</th><th>Tệp</th><th>Số HĐ</th><th>Ngày</th><th>Người bán</th><th class="so">Tổng thanh toán</th><th>Trạng thái</th><th>Cảnh báo</th></tr></thead>
+    <tbody>
+    {% for c in chung_tu %}{% set hd = c.du_lieu or {} %}
+      <tr onclick="location.href='/chung-tu/{{ c.id }}'">
+        <td>{{ c.id }}</td>
+        <td>{{ c.ten_file }}</td>
+        <td>{{ hd.get('ky_hieu') or '' }} {{ hd.get('so_hoa_don') or '' }}</td>
+        <td>{{ hd.get('ngay_lap') or '' }}</td>
+        <td class="cat">{{ hd.get('ten_nguoi_ban') or '' }}</td>
+        <td class="so">{{ hd.get('tong_thanh_toan') | tien }}</td>
+        <td><span class="nhan nhan-{{ c.trang_thai }}">{{ NHAN[c.trang_thai] }}</span></td>
+        <td class="cat mo">{% if c.loi %}{{ c.loi }}{% elif c.canh_bao %}{{ c.canh_bao | join('; ') }}{% endif %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% else %}<p class="mo">Chưa có chứng từ.</p>{% endif %}
+</section>
+{% endif %}
+{% endblock %}

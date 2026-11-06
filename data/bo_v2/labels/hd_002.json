@@ -1,0 +1,23 @@
+{
+  "ky_hieu": "C26TAK",
+  "so_hoa_don": "5149",
+  "ngay_lap": "2026-04-18",
+  "ten_nguoi_ban": "CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG",
+  "mst_nguoi_ban": "0234671849",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 3040000,
+  "tien_thue": 304000,
+  "tong_thanh_toan": 3344000,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 4.0,
+      "don_gia": 760000,
+      "thanh_tien": 3040000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

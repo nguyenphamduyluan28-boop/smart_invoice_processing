@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Chứng từ #{{ ct.id }} – Hoá Đơn AI{% endblock %}
+{% block head %}{% if ct.trang_thai == 'DANG_XU_LY' %}<meta http-equiv="refresh" content="3">{% endif %}{% endblock %}
+{% macro o(ten, nhan, kieu='text') -%}
+  <label class="{{ 'nghi-ngo' if ten in nghi_ngo }}">{{ nhan }}
+    <input name="{{ ten }}" type="{{ kieu }}" value="{{ hd.get(ten) if hd.get(ten) is not none else '' }}">
+  </label>
+{%- endmacro %}
+{% block body %}
+<p><a href="/?kh={{ kh.id }}">← {{ kh.ten }}</a> · Chứng từ #{{ ct.id }} · {{ ct.ten_file }}
+  · <span class="nhan nhan-{{ ct.trang_thai }}">{{ NHAN[ct.trang_thai] }}</span>
+  {% if ct.so_giay_xu_ly is not none and ct.trang_thai != 'DANG_XU_LY' %}<span class="mo">· xử lý {{ ct.so_giay_xu_ly }} giây · {{ (ct.token_vao or 0) + (ct.token_ra or 0) }} token{% if ct.model %} · {{ ct.model }}{% endif %}</span>{% endif %}</p>
+
+<div class="hai-cot">
+  <section class="the xem-tep">
+    {% if loai == '.pdf' %}<iframe src="/tep/{{ ct.id }}"></iframe>
+    {% elif loai == '.xml' %}<pre>{{ noi_dung_xml }}</pre>
+    {% else %}<img src="/tep/{{ ct.id }}" alt="Ảnh chứng từ">{% endif %}
+  </section>
+
+  <section class="the">
+    {% if ct.trang_thai == 'DANG_XU_LY' %}
+      <p>Đang xử lý{% if da_cho is defined and da_cho is not none %} — đã {{ da_cho }} giây{% endif %}… trang tự cập nhật mỗi 3 giây.</p>
+      <p class="mo">Thường mất 5–30 giây. Nếu Google quá tải, app tự thử lại nên có thể lâu hơn.</p>
+      {% if da_cho is defined and da_cho is not none and da_cho > 240 %}
+      <form method="post" action="/chung-tu/{{ ct.id }}/xu-ly-lai"><button>Có vẻ bị kẹt — xử lý lại</button></form>
+      {% endif %}
+    {% elif ct.trang_thai == 'LOI' %}
+      <div class="canh-bao">{{ ct.loi }}</div>
+      <form method="post" action="/chung-tu/{{ ct.id }}/xu-ly-lai"><button>Xử lý lại</button></form>
+    {% else %}
+      {% if loi_nhap %}<div class="canh-bao"><b>Chưa lưu/duyệt được:</b><ul>{% for l in loi_nhap %}<li>{{ l }}</li>{% endfor %}</ul></div>{% endif %}
+      {% if ct.ghi_chu %}<div class="ghi-chu"><b>Đã tự chuẩn hoá:</b><ul>{% for l in ct.ghi_chu %}<li>{{ l }}</li>{% endfor %}</ul></div>{% endif %}
+      {% if ct.canh_bao %}<div class="canh-bao"><b>Cần kiểm tra:</b><ul>{% for l in ct.canh_bao %}<li>{{ l }}</li>{% endfor %}</ul></div>
+      {% elif ct.trang_thai != 'DA_DUYET' %}<div class="on">Không phát hiện vấn đề. Kiểm tra nhanh rồi duyệt.</div>{% endif %}
+      {% if nghi_ngo %}<p class="mo"><span class="o-vang"></span> Ô tô vàng: AI không chắc chắn.</p>{% endif %}
+
+      <form method="post" action="/chung-tu/{{ ct.id }}">
+        <div class="luoi">
+          {{ o('ky_hieu', 'Ký hiệu') }}{{ o('so_hoa_don', 'Số hoá đơn') }}{{ o('ngay_lap', 'Ngày lập', 'date') }}
+          {{ o('ten_nguoi_ban', 'Người bán') }}{{ o('mst_nguoi_ban', 'MST người bán') }}<span></span>
+          {{ o('ten_nguoi_mua', 'Người mua') }}{{ o('mst_nguoi_mua', 'MST người mua') }}<span></span>
+          {{ o('tong_tien_chua_thue', 'Tiền chưa thuế') }}{{ o('tien_thue', 'Tiền thuế') }}{{ o('tong_thanh_toan', 'Tổng thanh toán') }}
+        </div>
+
+        <h3>Dòng hàng & hạch toán</h3>
+        <input type="hidden" name="so_dong" value="{{ hd.dong_hang | length }}">
+        <table class="bang bang-sua">
+          <colgroup><col style="width:30%"><col style="width:8%"><col style="width:7%"><col style="width:13%"><col style="width:14%"><col style="width:8%"><col style="width:20%"></colgroup>
+          <thead><tr><th>Tên hàng</th><th>ĐVT</th><th>SL</th><th class="so">Đơn giá</th><th class="so">Thành tiền</th><th>Thuế</th><th>TK Nợ (gợi ý)</th></tr></thead>
+          <tbody>
+          {% for d in hd.dong_hang %}{% set h = hach_toan[loop.index0] if loop.index0 < hach_toan|length else {} %}{% set p = 'dong_' ~ loop.index0 ~ '_' %}
+            <tr>
+              <td><input name="{{ p }}ten_hang" value="{{ d.ten_hang }}" title="{{ d.ten_hang }}"></td>
+              <td><input name="{{ p }}don_vi_tinh" value="{{ d.don_vi_tinh or '' }}"></td>
+              <td><input name="{{ p }}so_luong" value="{{ '%g' % d.so_luong if d.so_luong is not none else '' }}"></td>
+              <td><input name="{{ p }}don_gia" value="{{ d.don_gia if d.don_gia is not none else '' }}" class="so"></td>
+              <td><input name="{{ p }}thanh_tien" value="{{ d.thanh_tien }}" class="so"></td>
+              <td><input name="{{ p }}thue_suat" value="{{ d.thue_suat or '' }}"></td>
+              <td>
+                <select name="{{ p }}tk_no" class="{{ 'thieu' if not h.get('tk_no') }}">
+                  <option value="">— chọn —</option>
+                  {% for tk, ten in DANH_MUC.items() %}<option value="{{ tk }}" {{ 'selected' if h.get('tk_no') == tk }}>{{ tk }} – {{ ten }}</option>{% endfor %}
+                </select>
+                <div class="goi-y" title="{{ h.get('ly_do', '') }}">{{ h.get('nguon', '') }}{% if h.get('ly_do') %}: {{ h.get('ly_do') }}{% endif %}</div>
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+        <p class="mo">TK Có mặc định 331, thuế GTGT đầu vào 1331 (chỉnh trong src/tai_khoan.py).</p>
+        {% if ly_do_chan %}
+        <div class="chan">
+          <b>Chưa đủ điều kiện hạch toán:</b> {{ ly_do_chan | join('; ') }}.
+          {% if ct.xac_nhan_ngoai_le %}<div>Đã được xác nhận duyệt ngoại lệ — lý do: {{ ct.xac_nhan_ngoai_le }}</div>{% endif %}
+          <label class="xac-nhan"><input type="checkbox" name="xac_nhan_ngoai_le" value="1">
+            Tôi đã kiểm tra, chứng từ này hợp lệ và vẫn muốn duyệt</label>
+          <input name="ly_do_xac_nhan" placeholder="Lý do (bắt buộc nếu tick), ví dụ: đã đối chiếu bản gốc, MST đúng là ..." class="rong">
+        </div>
+        {% endif %}
+        <div class="nut-hang">
+          <button name="hanh_dong" value="luu" class="phu">Lưu &amp; kiểm tra lại</button>
+          <button name="hanh_dong" value="duyet">Duyệt &amp; sang chứng từ tiếp →</button>
+        </div>
+      </form>
+    {% endif %}
+  </section>
+</div>
+{% endblock %}

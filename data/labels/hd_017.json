@@ -1,0 +1,47 @@
+{
+  "ky_hieu": "C26TED",
+  "so_hoa_don": "5436",
+  "ngay_lap": "2026-03-15",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG",
+  "mst_nguoi_ban": "0814497660",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0565178836",
+  "tong_tien_chua_thue": 36154000,
+  "tien_thue": 3615400,
+  "tong_thanh_toan": 39769400,
+  "dong_hang": [
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 9.0,
+      "don_gia": 1623000,
+      "thanh_tien": 14607000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 4.0,
+      "don_gia": 2455000,
+      "thanh_tien": 9820000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 9.0,
+      "don_gia": 905000,
+      "thanh_tien": 8145000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 9.0,
+      "don_gia": 398000,
+      "thanh_tien": 3582000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

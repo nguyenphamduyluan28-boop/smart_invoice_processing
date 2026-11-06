@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TKA",
+  "so_hoa_don": "954",
+  "ngay_lap": "2026-02-18",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0594502831",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0632337352",
+  "tong_tien_chua_thue": 35432000,
+  "tien_thue": 3543200,
+  "tong_thanh_toan": 38975200,
+  "dong_hang": [
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 14.0,
+      "don_gia": 2117000,
+      "thanh_tien": 29638000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 11.0,
+      "don_gia": 77000,
+      "thanh_tien": 847000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 17.0,
+      "don_gia": 291000,
+      "thanh_tien": 4947000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

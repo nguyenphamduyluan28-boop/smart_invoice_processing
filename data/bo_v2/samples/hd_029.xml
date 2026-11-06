@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TBB</KHHDon><SHDon>2325</SHDon><NLap>2026-07-19</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG</Ten><MST>0992393726</MST><DChi>Số 45 phố Trần Duy Hưng, Phường Trung Hòa, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0503258854</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Bàn làm việc gỗ 1m2</THHDVu><DVTinh>cái</DVTinh><SLuong>13</SLuong><DGia>2903000</DGia><ThTien>37739000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>17</SLuong><DGia>119000</DGia><ThTien>2023000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>6</SLuong><DGia>770000</DGia><ThTien>4620000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>44382000</TgTCThue><TgTThue>4438200</TgTThue><TgTTTBSo>48820200</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00002325MAU</MCCQT></HDon>

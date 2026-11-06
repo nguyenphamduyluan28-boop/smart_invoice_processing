@@ -1,0 +1,47 @@
+{
+  "ky_hieu": "C26TAH",
+  "so_hoa_don": "388",
+  "ngay_lap": "2026-05-25",
+  "ten_nguoi_ban": "CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG",
+  "mst_nguoi_ban": "0541465908",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0380129110",
+  "tong_tien_chua_thue": 53592000,
+  "tien_thue": 5359200,
+  "tong_thanh_toan": 58951200,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 14.0,
+      "don_gia": 422000,
+      "thanh_tien": 5908000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 12.0,
+      "don_gia": 2826000,
+      "thanh_tien": 33912000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 9.0,
+      "don_gia": 848000,
+      "thanh_tien": 7632000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 10.0,
+      "don_gia": 614000,
+      "thanh_tien": 6140000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

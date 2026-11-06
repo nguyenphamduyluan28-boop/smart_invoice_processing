@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TGK</KHHDon><SHDon>9802</SHDon><NLap>2026-04-30</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT</Ten><MST>0640376201</MST><DChi>Số 12 đường Lê Lợi, Phường Bến Thành, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC</Ten><MST>0724458279</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>19</SLuong><DGia>474000</DGia><ThTien>9006000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>5</SLuong><DGia>105000</DGia><ThTien>525000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>17</SLuong><DGia>461000</DGia><ThTien>7837000</ThTien><TSuat>8%</TSuat></HHDVu><HHDVu><STT>4</STT><THHDVu>Bàn làm việc gỗ 1m2</THHDVu><DVTinh>cái</DVTinh><SLuong>14</SLuong><DGia>3076000</DGia><ThTien>43064000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>60432000</TgTCThue><TgTThue>4834560</TgTThue><TgTTTBSo>65266560</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00009802MAU</MCCQT></HDon>

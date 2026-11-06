@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TBK</KHHDon><SHDon>2925</SHDon><NLap>2026-03-29</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG</Ten><MST>0328385642</MST><DChi>Lô B3 KCN Tân Tạo, Phường Tân Tạo, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0105129837</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>14</SLuong><DGia>92000</DGia><ThTien>1288000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>1288000</TgTCThue><TgTThue>128800</TgTThue><TgTTTBSo>1416800</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00002925MAU</MCCQT></HDon>

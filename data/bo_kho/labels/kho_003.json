@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MKD",
+  "so_hoa_don": "59374",
+  "ngay_lap": "2026-06-20",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG TRƯỜNG HẢI LONG",
+  "mst_nguoi_mua": "0645183849",
+  "tong_tien_chua_thue": 1823500,
+  "tien_thue": 145880,
+  "tong_thanh_toan": 1969380,
+  "dong_hang": [
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 3.0,
+      "don_gia": 66500,
+      "thanh_tien": 199500,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 4.0,
+      "don_gia": 406000,
+      "thanh_tien": 1624000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,56 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TGC",
+  "so_hoa_don": "82537",
+  "ngay_lap": "2026-08-02",
+  "ten_nguoi_ban": "CỬA HÀNG ĐIỆN MÁY QUANG MINH",
+  "mst_nguoi_ban": "0963585092",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 47576000,
+  "tien_thue": 4389480,
+  "tong_thanh_toan": 51965480,
+  "dong_hang": [
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 1.0,
+      "don_gia": 22000,
+      "thanh_tien": 22000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phần mềm diệt virus bản quyền 1 năm",
+      "don_vi_tinh": "license",
+      "so_luong": 6.0,
+      "don_gia": 584000,
+      "thanh_tien": 3504000,
+      "thue_suat": "KCT"
+    },
+    {
+      "ten_hang": "Dịch vụ bảo trì hệ thống điều hoà định kỳ quý IV",
+      "don_vi_tinh": "gói",
+      "so_luong": 12.0,
+      "don_gia": 3597000,
+      "thanh_tien": 43164000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 8.0,
+      "don_gia": 72500,
+      "thanh_tien": 580000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 3.0,
+      "don_gia": 102000,
+      "thanh_tien": 306000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

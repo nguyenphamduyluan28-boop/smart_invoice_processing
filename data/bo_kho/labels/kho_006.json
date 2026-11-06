@@ -1,0 +1,40 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26THC",
+  "so_hoa_don": "50277",
+  "ngay_lap": "2026-07-03",
+  "ten_nguoi_ban": "CỬA HÀNG ĐIỆN MÁY QUANG MINH",
+  "mst_nguoi_ban": "0963585092",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 16435000,
+  "tien_thue": 1514240,
+  "tong_thanh_toan": 17949240,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì hệ thống điều hoà định kỳ quý IV",
+      "don_vi_tinh": "gói",
+      "so_luong": 4.0,
+      "don_gia": 3737000,
+      "thanh_tien": 14948000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Suất ăn trưa văn phòng",
+      "don_vi_tinh": "suất",
+      "so_luong": 3.0,
+      "don_gia": 81000,
+      "thanh_tien": 243000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Phần mềm diệt virus bản quyền 1 năm",
+      "don_vi_tinh": "license",
+      "so_luong": 4.0,
+      "don_gia": 311000,
+      "thanh_tien": 1244000,
+      "thue_suat": "KCT"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

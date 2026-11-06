@@ -1,0 +1,47 @@
+{
+  "ky_hieu": "C26TAA",
+  "so_hoa_don": "8363",
+  "ngay_lap": "2026-09-01",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0724870366",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 32615000,
+  "tien_thue": 2609200,
+  "tong_thanh_toan": 35224200,
+  "dong_hang": [
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 13.0,
+      "don_gia": 264000,
+      "thanh_tien": 3432000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 4.0,
+      "don_gia": 848000,
+      "thanh_tien": 3392000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 3.0,
+      "don_gia": 1905000,
+      "thanh_tien": 5715000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 12.0,
+      "don_gia": 1673000,
+      "thanh_tien": 20076000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TDC",
+  "so_hoa_don": "6539",
+  "ngay_lap": "2026-07-04",
+  "ten_nguoi_ban": "CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG",
+  "mst_nguoi_ban": "0234671849",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 36078000,
+  "tien_thue": 3607800,
+  "tong_thanh_toan": 39685800,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 11.0,
+      "don_gia": 357000,
+      "thanh_tien": 3927000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 1.0,
+      "don_gia": 1447000,
+      "thanh_tien": 1447000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 16.0,
+      "don_gia": 1919000,
+      "thanh_tien": 30704000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

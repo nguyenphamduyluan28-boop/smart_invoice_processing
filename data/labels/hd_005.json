@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TDK",
+  "so_hoa_don": "9633",
+  "ngay_lap": "2026-03-09",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG",
+  "mst_nguoi_ban": "0984162294",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0662836016",
+  "tong_tien_chua_thue": 25804000,
+  "tien_thue": 2064320,
+  "tong_thanh_toan": 27868320,
+  "dong_hang": [
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 19.0,
+      "don_gia": 1038000,
+      "thanh_tien": 19722000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 16.0,
+      "don_gia": 112000,
+      "thanh_tien": 1792000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 5.0,
+      "don_gia": 858000,
+      "thanh_tien": 4290000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

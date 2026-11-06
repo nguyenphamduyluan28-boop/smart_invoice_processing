@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TBB</KHHDon><SHDon>6815</SHDon><NLap>2026-07-25</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT</Ten><MST>0033042845</MST><DChi>Số 12 đường Lê Lợi, Phường Bến Thành, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0420381780</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ tư vấn thuế tháng 10</THHDVu><DVTinh>gói</DVTinh><SLuong>3</SLuong><DGia>4271000</DGia><ThTien>12813000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>6</SLuong><DGia>918000</DGia><ThTien>5508000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Bàn làm việc gỗ 1m2</THHDVu><DVTinh>cái</DVTinh><SLuong>13</SLuong><DGia>3454000</DGia><ThTien>44902000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>63223000</TgTCThue><TgTThue>6322300</TgTThue><TgTTTBSo>69545300</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00006815MAU</MCCQT></HDon>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TAK</KHHDon><SHDon>5149</SHDon><NLap>2026-04-18</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG</Ten><MST>0234671849</MST><DChi>Lô B3 KCN Tân Tạo, Phường Tân Tạo, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0503258854</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>4</SLuong><DGia>760000</DGia><ThTien>3040000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>3040000</TgTCThue><TgTThue>304000</TgTThue><TgTTTBSo>3344000</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00005149MAU</MCCQT></HDon>

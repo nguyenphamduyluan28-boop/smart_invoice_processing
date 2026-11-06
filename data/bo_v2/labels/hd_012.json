@@ -1,0 +1,47 @@
+{
+  "ky_hieu": "C26TGK",
+  "so_hoa_don": "9802",
+  "ngay_lap": "2026-04-30",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT",
+  "mst_nguoi_ban": "0640376201",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0724458279",
+  "tong_tien_chua_thue": 60432000,
+  "tien_thue": 4834560,
+  "tong_thanh_toan": 65266560,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 19.0,
+      "don_gia": 474000,
+      "thanh_tien": 9006000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 5.0,
+      "don_gia": 105000,
+      "thanh_tien": 525000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 17.0,
+      "don_gia": 461000,
+      "thanh_tien": 7837000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 14.0,
+      "don_gia": 3076000,
+      "thanh_tien": 43064000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TEK</KHHDon><SHDon>6586</SHDon><NLap>2026-08-10</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM</Ten><MST>0344002978</MST><DChi>Số 8 đường Nguyễn Văn Linh, Phường Hải Châu, Đà Nẵng</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0534778768</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>4</SLuong><DGia>717000</DGia><ThTien>2868000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>16</SLuong><DGia>1181000</DGia><ThTien>18896000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Dịch vụ tư vấn thuế tháng 10</THHDVu><DVTinh>gói</DVTinh><SLuong>18</SLuong><DGia>3028000</DGia><ThTien>54504000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>4</STT><THHDVu>Ghế xoay văn phòng</THHDVu><DVTinh>cái</DVTinh><SLuong>18</SLuong><DGia>1773000</DGia><ThTien>31914000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>108182000</TgTCThue><TgTThue>10818200</TgTThue><TgTTTBSo>119000200</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00006586MAU</MCCQT></HDon>

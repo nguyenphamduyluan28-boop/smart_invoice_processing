@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TGC",
+  "so_hoa_don": "6368",
+  "ngay_lap": "2026-04-07",
+  "ten_nguoi_ban": "CÔNG TY TNHH VẬN TẢI HẢI ĐĂNG",
+  "mst_nguoi_ban": "0234671849",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0724458279",
+  "tong_tien_chua_thue": 58998000,
+  "tien_thue": 4719840,
+  "tong_thanh_toan": 63717840,
+  "dong_hang": [
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 7.0,
+      "don_gia": 78000,
+      "thanh_tien": 546000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 10.0,
+      "don_gia": 1554000,
+      "thanh_tien": 15540000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 18.0,
+      "don_gia": 2384000,
+      "thanh_tien": 42912000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,48 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TEG",
+  "so_hoa_don": "5755",
+  "ngay_lap": "2026-08-15",
+  "ten_nguoi_ban": "CÔNG TY TNHH NHÀ HÀNG PHỐ CỔ ĐÔNG KINH",
+  "mst_nguoi_ban": "0061594994",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0724458279",
+  "tong_tien_chua_thue": 6372500,
+  "tien_thue": 551330,
+  "tong_thanh_toan": 6923830,
+  "dong_hang": [
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 1.0,
+      "don_gia": 23000,
+      "thanh_tien": 23000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Cước dịch vụ internet cáp quang tháng 10/2026",
+      "don_vi_tinh": "tháng",
+      "so_luong": 11.0,
+      "don_gia": 472500,
+      "thanh_tien": 5197500,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phần mềm diệt virus bản quyền 1 năm",
+      "don_vi_tinh": "license",
+      "so_luong": 2.0,
+      "don_gia": 393000,
+      "thanh_tien": 786000,
+      "thue_suat": "KCT"
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 3.0,
+      "don_gia": 122000,
+      "thanh_tien": 366000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

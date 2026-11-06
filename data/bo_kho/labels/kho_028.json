@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "BAN_HANG",
+  "ky_hieu": "2C26THB",
+  "so_hoa_don": "36096",
+  "ngay_lap": "2026-07-20",
+  "ten_nguoi_ban": "CỬA HÀNG ĐIỆN MÁY QUANG MINH",
+  "mst_nguoi_ban": "0963585092",
+  "ten_nguoi_mua": "Lê Hoàng Phúc",
+  "mst_nguoi_mua": null,
+  "tong_tien_chua_thue": 2274000,
+  "tien_thue": 0,
+  "tong_thanh_toan": 2274000,
+  "dong_hang": [
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 9.0,
+      "don_gia": 92000,
+      "thanh_tien": 828000,
+      "thue_suat": null
+    },
+    {
+      "ten_hang": "Xăng RON 95-V",
+      "don_vi_tinh": "lít",
+      "so_luong": 60.25,
+      "don_gia": 24000,
+      "thanh_tien": 1446000,
+      "thue_suat": null
+    }
+  ],
+  "do_tin_cay_thap": []
+}

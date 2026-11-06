@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TKB",
+  "so_hoa_don": "4366",
+  "ngay_lap": "2026-09-13",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT",
+  "mst_nguoi_ban": "0513627010",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0981933190",
+  "tong_tien_chua_thue": 19392000,
+  "tien_thue": 1939200,
+  "tong_thanh_toan": 21331200,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 15.0,
+      "don_gia": 827000,
+      "thanh_tien": 12405000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 9.0,
+      "don_gia": 713000,
+      "thanh_tien": 6417000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 6.0,
+      "don_gia": 95000,
+      "thanh_tien": 570000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

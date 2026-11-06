@@ -1,0 +1,8 @@
+.env
+.venv/
+output/
+__pycache__/
+data/app.db
+data/uploads/
+.pytest_cache/
+*.log

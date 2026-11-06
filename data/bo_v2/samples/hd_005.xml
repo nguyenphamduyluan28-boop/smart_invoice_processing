@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26THK</KHHDon><SHDon>2334</SHDon><NLap>2026-09-04</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG</Ten><MST>0992393726</MST><DChi>Số 45 phố Trần Duy Hưng, Phường Trung Hòa, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0115421612</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Dịch vụ tư vấn thuế tháng 10</THHDVu><DVTinh>gói</DVTinh><SLuong>17</SLuong><DGia>5632000</DGia><ThTien>95744000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>4</SLuong><DGia>113000</DGia><ThTien>452000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>96196000</TgTCThue><TgTThue>9619600</TgTThue><TgTTTBSo>105815600</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00002334MAU</MCCQT></HDon>

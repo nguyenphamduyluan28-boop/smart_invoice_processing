@@ -1,0 +1,31 @@
+{
+  "ky_hieu": "C26THK",
+  "so_hoa_don": "2334",
+  "ngay_lap": "2026-09-04",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG",
+  "mst_nguoi_ban": "0992393726",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 96196000,
+  "tien_thue": 9619600,
+  "tong_thanh_toan": 105815600,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ tư vấn thuế tháng 10",
+      "don_vi_tinh": "gói",
+      "so_luong": 17.0,
+      "don_gia": 5632000,
+      "thanh_tien": 95744000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 4.0,
+      "don_gia": 113000,
+      "thanh_tien": 452000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

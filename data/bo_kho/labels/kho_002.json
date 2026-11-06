@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MHG",
+  "so_hoa_don": "55218",
+  "ngay_lap": "2026-04-11",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN THIẾT BỊ VĂN PHÒNG HƯNG THỊNH",
+  "mst_nguoi_ban": "0386430545",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 544500,
+  "tien_thue": 43560,
+  "tong_thanh_toan": 588060,
+  "dong_hang": [
+    {
+      "ten_hang": "Suất ăn trưa văn phòng",
+      "don_vi_tinh": "suất",
+      "so_luong": 3.0,
+      "don_gia": 59000,
+      "thanh_tien": 177000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 3.0,
+      "don_gia": 122500,
+      "thanh_tien": 367500,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

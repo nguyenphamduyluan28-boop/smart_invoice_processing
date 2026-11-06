@@ -1,0 +1,32 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TGK",
+  "so_hoa_don": "21306",
+  "ngay_lap": "2026-03-08",
+  "ten_nguoi_ban": "CÔNG TY TNHH XĂNG DẦU TÂN PHÚ THỊNH",
+  "mst_nguoi_ban": "0595384749",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 539000,
+  "tien_thue": 43120,
+  "tong_thanh_toan": 582120,
+  "dong_hang": [
+    {
+      "ten_hang": "Suất ăn trưa văn phòng",
+      "don_vi_tinh": "suất",
+      "so_luong": 7.0,
+      "don_gia": 52000,
+      "thanh_tien": 364000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Giấy in A4 định lượng 70gsm (500 tờ/ram)",
+      "don_vi_tinh": "ram",
+      "so_luong": 2.0,
+      "don_gia": 87500,
+      "thanh_tien": 175000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TGG</KHHDon><SHDon>7472</SHDon><NLap>2026-01-20</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT</Ten><MST>0640376201</MST><DChi>Số 12 đường Lê Lợi, Phường Bến Thành, TP. Hồ Chí Minh</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0503258854</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>18</SLuong><DGia>104000</DGia><ThTien>1872000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>1872000</TgTCThue><TgTThue>149760</TgTThue><TgTTTBSo>2021760</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00007472MAU</MCCQT></HDon>

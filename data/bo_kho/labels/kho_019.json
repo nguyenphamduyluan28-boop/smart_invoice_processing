@@ -1,0 +1,40 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26TCE",
+  "so_hoa_don": "49172",
+  "ngay_lap": "2026-02-22",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN THIẾT BỊ VĂN PHÒNG HƯNG THỊNH",
+  "mst_nguoi_ban": "0386430545",
+  "ten_nguoi_mua": "CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG TRƯỜNG HẢI LONG",
+  "mst_nguoi_mua": "0645183849",
+  "tong_tien_chua_thue": 8103000,
+  "tien_thue": 463500,
+  "tong_thanh_toan": 8566500,
+  "dong_hang": [
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 6.0,
+      "don_gia": 345000,
+      "thanh_tien": 2070000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Phần mềm diệt virus bản quyền 1 năm",
+      "don_vi_tinh": "license",
+      "so_luong": 6.0,
+      "don_gia": 509000,
+      "thanh_tien": 3054000,
+      "thue_suat": "KCT"
+    },
+    {
+      "ten_hang": "Bàn phím cơ không dây kết nối Bluetooth 5.0 kèm đầu thu USB",
+      "don_vi_tinh": "cái",
+      "so_luong": 2.0,
+      "don_gia": 1489500,
+      "thanh_tien": 2979000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

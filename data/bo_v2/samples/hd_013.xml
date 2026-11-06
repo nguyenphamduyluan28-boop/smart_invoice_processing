@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TAK</KHHDon><SHDon>3089</SHDon><NLap>2026-09-05</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG</Ten><MST>0992393726</MST><DChi>Số 45 phố Trần Duy Hưng, Phường Trung Hòa, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC</Ten><MST>0724458279</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>6</SLuong><DGia>496000</DGia><ThTien>2976000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>2976000</TgTCThue><TgTThue>238080</TgTThue><TgTTTBSo>3214080</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00003089MAU</MCCQT></HDon>

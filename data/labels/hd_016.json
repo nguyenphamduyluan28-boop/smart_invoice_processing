@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TEE",
+  "so_hoa_don": "3704",
+  "ngay_lap": "2026-03-28",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT",
+  "mst_nguoi_ban": "0568855765",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0373556963",
+  "tong_tien_chua_thue": 68733000,
+  "tien_thue": 6873300,
+  "tong_thanh_toan": 75606300,
+  "dong_hang": [
+    {
+      "ten_hang": "Ghế xoay văn phòng",
+      "don_vi_tinh": "cái",
+      "so_luong": 12.0,
+      "don_gia": 1119000,
+      "thanh_tien": 13428000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 3.0,
+      "don_gia": 339000,
+      "thanh_tien": 1017000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 16.0,
+      "don_gia": 3393000,
+      "thanh_tien": 54288000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.1.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon>
+<KHHDon>1C26TEG</KHHDon><SHDon>5755</SHDon><NLap>2026-08-15</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH NHÀ HÀNG PHỐ CỔ ĐÔNG KINH</Ten><MST>0061594994</MST><DChi>Số 9 Hàng Buồm, Phường Hoàn Kiếm, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC</Ten><MST>0724458279</MST></NMua><DSHHDVu><HHDVu><STT>1</STT><THHDVu>Xăng RON 95-V</THHDVu><DVTinh>lít</DVTinh><SLuong>1</SLuong><DGia>23000</DGia><ThTien>23000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Cước dịch vụ internet cáp quang tháng 10/2026</THHDVu><DVTinh>tháng</DVTinh><SLuong>11</SLuong><DGia>472500</DGia><ThTien>5197500</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Phần mềm diệt virus bản quyền 1 năm</THHDVu><DVTinh>license</DVTinh><SLuong>2</SLuong><DGia>393000</DGia><ThTien>786000</ThTien><TSuat>KCT</TSuat></HHDVu><HHDVu><STT>4</STT><THHDVu>Nước khoáng đóng chai 500ml (thùng 24 chai)</THHDVu><DVTinh>thùng</DVTinh><SLuong>3</SLuong><DGia>122000</DGia><ThTien>366000</ThTien><TSuat>8%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>6372500</TgTCThue><TgTThue>551330</TgTThue><TgTTTBSo>6923830</TgTTTBSo></TToan>
+</NDHDon></DLHDon></HDon>

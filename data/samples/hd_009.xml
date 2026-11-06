@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TEG</KHHDon><SHDon>2645</SHDon><NLap>2026-05-14</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT AN KHANG</Ten><MST>0410646001</MST><DChi>Số 45 phố Trần Duy Hưng, Phường Trung Hòa, Hà Nội</DChi></NBan>
+<NMua><Ten>CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI</Ten><MST>0041189557</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Mực in laser đen</THHDVu><DVTinh>hộp</DVTinh><SLuong>6</SLuong><DGia>1111000</DGia><ThTien>6666000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>4</SLuong><DGia>100000</DGia><ThTien>400000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Ghế xoay văn phòng</THHDVu><DVTinh>cái</DVTinh><SLuong>11</SLuong><DGia>1516000</DGia><ThTien>16676000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>4</STT><THHDVu>Dịch vụ bảo trì máy lạnh</THHDVu><DVTinh>lần</DVTinh><SLuong>19</SLuong><DGia>365000</DGia><ThTien>6935000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>30677000</TgTCThue><TgTThue>3067700</TgTThue><TgTTTBSo>33744700</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00002645MAU</MCCQT></HDon>

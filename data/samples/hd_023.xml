@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HDon><DLHDon Id="DLHDon"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon>
+<KHHDon>C26TKA</KHHDon><SHDon>954</SHDon><NLap>2026-02-18</NLap><DVTTe>VND</DVTTe></TTChung>
+<NDHDon><NBan><Ten>CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM</Ten><MST>0594502831</MST><DChi>Số 8 đường Nguyễn Văn Linh, Phường Hải Châu, Đà Nẵng</DChi></NBan>
+<NMua><Ten>CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN</Ten><MST>0632337352</MST></NMua>
+<DSHHDVu><HHDVu><STT>1</STT><THHDVu>Bàn làm việc gỗ 1m2</THHDVu><DVTinh>cái</DVTinh><SLuong>14</SLuong><DGia>2117000</DGia><ThTien>29638000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>2</STT><THHDVu>Giấy in A4 70gsm</THHDVu><DVTinh>ram</DVTinh><SLuong>11</SLuong><DGia>77000</DGia><ThTien>847000</ThTien><TSuat>10%</TSuat></HHDVu><HHDVu><STT>3</STT><THHDVu>Phí vận chuyển nội thành</THHDVu><DVTinh>chuyến</DVTinh><SLuong>17</SLuong><DGia>291000</DGia><ThTien>4947000</ThTien><TSuat>10%</TSuat></HHDVu></DSHHDVu>
+<TToan><TgTCThue>35432000</TgTCThue><TgTThue>3543200</TgTThue><TgTTTBSo>38975200</TgTTTBSo></TToan>
+</NDHDon></DLHDon><MCCQT>00000954MAU</MCCQT></HDon>

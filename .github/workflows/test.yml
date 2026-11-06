@@ -1,0 +1,13 @@
+# Chạy bộ test mỗi lần push lên GitHub (tuần 3: CI). Không cần API key: test không gọi AI.
+name: test
+on: [push, pull_request]
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: pytest -v

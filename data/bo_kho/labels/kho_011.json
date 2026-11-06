@@ -1,0 +1,48 @@
+{
+  "loai_hoa_don": "GTGT",
+  "ky_hieu": "1C26MDE",
+  "so_hoa_don": "79548",
+  "ngay_lap": "2026-01-30",
+  "ten_nguoi_ban": "CÔNG TY CỔ PHẦN THIẾT BỊ VĂN PHÒNG HƯNG THỊNH",
+  "mst_nguoi_ban": "0386430545",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 6185500,
+  "tien_thue": 457895,
+  "tong_thanh_toan": 6643395,
+  "dong_hang": [
+    {
+      "ten_hang": "Sách nghiệp vụ kế toán thuế doanh nghiệp",
+      "don_vi_tinh": "cuốn",
+      "so_luong": 9.0,
+      "don_gia": 141500,
+      "thanh_tien": 1273500,
+      "thue_suat": "5%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 9.0,
+      "don_gia": 433000,
+      "thanh_tien": 3897000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Nước khoáng đóng chai 500ml (thùng 24 chai)",
+      "don_vi_tinh": "thùng",
+      "so_luong": 8.0,
+      "don_gia": 119000,
+      "thanh_tien": 952000,
+      "thue_suat": "8%"
+    },
+    {
+      "ten_hang": "Dầu Diesel 0,05S-II",
+      "don_vi_tinh": "lít",
+      "so_luong": 3.0,
+      "don_gia": 21000,
+      "thanh_tien": 63000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

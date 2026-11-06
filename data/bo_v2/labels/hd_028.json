@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TEC",
+  "so_hoa_don": "1651",
+  "ngay_lap": "2026-01-10",
+  "ten_nguoi_ban": "CÔNG TY TNHH THƯƠNG MẠI MINH PHÁT",
+  "mst_nguoi_ban": "0640376201",
+  "ten_nguoi_mua": "CÔNG TY TNHH KẾ TOÁN THUẾ PHÚC LỘC",
+  "mst_nguoi_mua": "0724458279",
+  "tong_tien_chua_thue": 27376000,
+  "tien_thue": 2737600,
+  "tong_thanh_toan": 30113600,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ tư vấn thuế tháng 10",
+      "don_vi_tinh": "gói",
+      "so_luong": 2.0,
+      "don_gia": 4617000,
+      "thanh_tien": 9234000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 6.0,
+      "don_gia": 1972000,
+      "thanh_tien": 11832000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 10.0,
+      "don_gia": 631000,
+      "thanh_tien": 6310000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TCG",
+  "so_hoa_don": "9781",
+  "ngay_lap": "2026-06-04",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0724870366",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 43764000,
+  "tien_thue": 4376400,
+  "tong_thanh_toan": 48140400,
+  "dong_hang": [
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 4.0,
+      "don_gia": 616000,
+      "thanh_tien": 2464000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Bàn làm việc gỗ 1m2",
+      "don_vi_tinh": "cái",
+      "so_luong": 20.0,
+      "don_gia": 2051000,
+      "thanh_tien": 41020000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Giấy in A4 70gsm",
+      "don_vi_tinh": "ram",
+      "so_luong": 4.0,
+      "don_gia": 70000,
+      "thanh_tien": 280000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

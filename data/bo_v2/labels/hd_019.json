@@ -1,0 +1,39 @@
+{
+  "ky_hieu": "C26TAA",
+  "so_hoa_don": "1581",
+  "ngay_lap": "2026-05-01",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0724870366",
+  "ten_nguoi_mua": "CÔNG TY TNHH GIẢI PHÁP PHẦN MỀM SAO MAI",
+  "mst_nguoi_mua": "0115421612",
+  "tong_tien_chua_thue": 37420000,
+  "tien_thue": 3742000,
+  "tong_thanh_toan": 41162000,
+  "dong_hang": [
+    {
+      "ten_hang": "Dịch vụ bảo trì máy lạnh",
+      "don_vi_tinh": "lần",
+      "so_luong": 9.0,
+      "don_gia": 364000,
+      "thanh_tien": 3276000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Mực in laser đen",
+      "don_vi_tinh": "hộp",
+      "so_luong": 1.0,
+      "don_gia": 871000,
+      "thanh_tien": 871000,
+      "thue_suat": "10%"
+    },
+    {
+      "ten_hang": "Dịch vụ tư vấn thuế tháng 10",
+      "don_vi_tinh": "gói",
+      "so_luong": 9.0,
+      "don_gia": 3697000,
+      "thanh_tien": 33273000,
+      "thue_suat": "10%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}

@@ -1,0 +1,23 @@
+{
+  "ky_hieu": "C26TGC",
+  "so_hoa_don": "4317",
+  "ngay_lap": "2026-08-26",
+  "ten_nguoi_ban": "CÔNG TY TNHH NỘI THẤT GỖ VIỆT TÂM",
+  "mst_nguoi_ban": "0724870366",
+  "ten_nguoi_mua": "CÔNG TY CỔ PHẦN THỰC PHẨM XANH BÌNH AN",
+  "mst_nguoi_mua": "0503258854",
+  "tong_tien_chua_thue": 4410000,
+  "tien_thue": 352800,
+  "tong_thanh_toan": 4762800,
+  "dong_hang": [
+    {
+      "ten_hang": "Phí vận chuyển nội thành",
+      "don_vi_tinh": "chuyến",
+      "so_luong": 10.0,
+      "don_gia": 441000,
+      "thanh_tien": 4410000,
+      "thue_suat": "8%"
+    }
+  ],
+  "do_tin_cay_thap": []
+}
