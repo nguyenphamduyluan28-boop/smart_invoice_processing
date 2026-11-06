@@ -54,26 +54,31 @@ class ChonTaiKhoan(BaseModel):
     ly_do: str = Field(description="Lý do ngắn gọn, tiếng Việt")
 
 
-def _hoi_ai(dong: DongHang, hd: HoaDon) -> dict:
+def _hoi_ai(dong: DongHang, hd: HoaDon) -> tuple[dict, dict]:
     danh_muc = "\n".join(f"{k}: {v}" for k, v in DANH_MUC.items())
-    ket_qua, _ = llm.goi_co_cau_truc(
+    ket_qua, token = llm.goi_co_cau_truc(
         "Bạn là kế toán viên Việt Nam. Chọn tài khoản Nợ phù hợp nhất trong danh mục cho phép.",
         f"Danh mục:\n{danh_muc}\n\nNgười bán: {hd.ten_nguoi_ban}\n"
         f"Dòng hàng: {dong.ten_hang} | ĐVT: {dong.don_vi_tinh} | SL: {dong.so_luong} | "
         f"Đơn giá: {dong.don_gia} | Thành tiền: {dong.thanh_tien}",
         ChonTaiKhoan,
     )
-    return {"tk_no": ket_qua.tai_khoan, "nguon": f"AI ({llm.nha_cung_cap()})", "ly_do": ket_qua.ly_do}
+    return {"tk_no": ket_qua.tai_khoan, "nguon": f"AI ({llm.nha_cung_cap()})", "ly_do": ket_qua.ly_do}, token
 
 
-def goi_y_hach_toan(hd: HoaDon) -> list[dict]:
+def goi_y_hach_toan(hd: HoaDon, dem_token: dict | None = None) -> list[dict]:
+    """dem_token: nếu truyền vào, token của các lần hỏi AI được CỘNG DỒN vào đó —
+    để chi phí mỗi chứng từ tính đủ cả phần gợi ý tài khoản, không chỉ phần đọc."""
     co_api = llm.co_api()
     ket_qua = []
     for dong in hd.dong_hang:
         goi_y = _theo_quy_tac(dong)
         if goi_y is None and co_api:
             try:
-                goi_y = _hoi_ai(dong, hd)
+                goi_y, token = _hoi_ai(dong, hd)
+                if dem_token is not None:
+                    for k in ("input_tokens", "output_tokens"):
+                        dem_token[k] = dem_token.get(k, 0) + token.get(k, 0)
             except Exception as e:  # AI lỗi thì để kế toán tự chọn, không làm hỏng cả chứng từ
                 goi_y = {"tk_no": None, "nguon": "chưa rõ", "ly_do": f"AI lỗi: {e}"}
         ket_qua.append(goi_y or {"tk_no": None, "nguon": "chưa rõ", "ly_do": "Không khớp quy tắc nào"})

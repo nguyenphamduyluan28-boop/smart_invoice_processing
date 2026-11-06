@@ -60,7 +60,11 @@ def trang_chu(request: Request, kh: int | None = None, loc: str | None = None, t
 
 @app.post("/khach-hang")
 def tao_khach_hang(ten: str = Form(...), mst: str = Form("")):
-    kh = db.them_khach_hang(ten, mst)
+    from doi_tac import chuan_mst
+    if mst.strip() and not chuan_mst(mst):
+        return RedirectResponse(f"/?thong_bao={quote(f'MST {mst} không hợp lệ (cần 10 chữ số hoặc 10 số-3 số) — chưa thêm khách hàng')}",
+                                status_code=303)
+    kh = db.them_khach_hang(ten, chuan_mst(mst))
     return _ve_trang_chu(kh, f"Đã thêm khách hàng {ten}")
 
 

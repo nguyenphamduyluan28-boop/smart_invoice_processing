@@ -174,7 +174,7 @@ Mở http://127.0.0.1:8000
 
 ```bash
 pip install -r requirements.txt   # có thêm pytest
-pytest -v                         # 26 test, chạy dưới 1 giây, KHÔNG gọi AI, không cần API key
+pytest -v                         # 30 test, chạy dưới 1 giây, KHÔNG gọi AI, không cần API key
 ```
 
 | File test | Bảo vệ điều gì |
@@ -184,6 +184,7 @@ pytest -v                         # 26 test, chạy dưới 1 giây, KHÔNG gọ
 | `tests/test_evaluate.py` | Bộ chấm điểm không chấm oan (khác định dạng) và không bỏ sót lỗi thật (mất số 0, sai dấu, thiếu dòng) |
 | `tests/test_db_va_duyet.py` | Chống trùng file, tách khách hàng, phát hiện hoá đơn trùng, duyệt ngoại lệ phải có lý do |
 | `tests/test_doi_tac_va_excel.py` | Danh bạ MST sửa tên sai dấu; Excel tổng thuế khớp hoá đơn, không xuất chứng từ không hợp lệ |
+| `tests/test_tai_khoan_va_khach_hang.py` | Chỉ hỏi AI dòng hàng quy tắc không nhận ra, và tính đủ token; từ chối MST khách hàng sai |
 
 Mỗi test dùng cơ sở dữ liệu tạm (`tmp_path`), không đụng `data/app.db`. Khi đưa repo lên GitHub,
 file `ci/test.yml` (chép vào thư mục `.github/workflows/` của repo) sẽ tự chạy bộ test mỗi lần push (CI).

@@ -13,7 +13,7 @@ from pathlib import Path
 from pydantic import ValidationError
 
 import db
-from doi_tac import cac_cap_mst_ten, chuan_hoa_ten
+from doi_tac import cac_cap_mst_ten, chuan_hoa_ten, chuan_mst
 from parse_xml import doc_xml
 from schema import HoaDon
 from tai_khoan import goi_y_hach_toan
@@ -27,7 +27,8 @@ def _danh_gia(ct: dict, hd: HoaDon, hach_toan: list[dict]) -> list[str]:
     if trung:
         canh_bao.append(f"Có thể TRÙNG với chứng từ #{trung} (cùng người bán, ký hiệu, số hoá đơn)")
     kh = db.lay_khach_hang(ct["khach_hang_id"])
-    if kh and kh.get("mst") and hd.mst_nguoi_mua and hd.mst_nguoi_mua != kh["mst"]:
+    mst_kh = chuan_mst(kh.get("mst")) if kh else None  # MST khách nhập sai định dạng thì không so
+    if mst_kh and hd.mst_nguoi_mua and chuan_mst(hd.mst_nguoi_mua) != mst_kh:
         canh_bao.append(f"MST người mua ({hd.mst_nguoi_mua}) khác MST khách hàng ({kh['mst']}) — có phải hoá đơn của khách này?")
     if any(not h.get("tk_no") for h in hach_toan):
         canh_bao.append("Có dòng hàng chưa có tài khoản hạch toán")
@@ -52,7 +53,11 @@ def xu_ly_chung_tu(ct_id: int):
             hd, token = trich_xuat(path)
             du_lieu_goc = hd.model_dump(mode="json") | {"_model": token.get("model")}
             ghi_chu = chuan_hoa_ten(hd, db.tra_doi_tac)  # AI đọc, danh bạ kiểm
-        hach_toan = goi_y_hach_toan(hd)
+        hach_toan = goi_y_hach_toan(hd, token)  # cộng token AI gợi ý tài khoản vào chi phí chứng từ
+        so_dong_ai = sum(str(h.get("nguon", "")).startswith("AI") for h in hach_toan)
+        if so_dong_ai:
+            ghi_chu.append(f"Quy tắc chưa nhận ra {so_dong_ai} dòng hàng nên đã hỏi AI gợi ý tài khoản "
+                           f"(tốn thêm thời gian và token)")
         canh_bao = _danh_gia(ct, hd, hach_toan)
         db.cap_nhat(
             ct_id,
